@@ -1,0 +1,6 @@
+module Pods_SocialShare_SocialShareTests {
+  umbrella header "Pods-SocialShare-SocialShareTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
